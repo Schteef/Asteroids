@@ -14,7 +14,7 @@ Platform assembly: C:\Users\Steve\GitHub\Asteroids\Asteroids_Data\Managed\UnityE
 Loading C:\Users\Steve\GitHub\Asteroids\Asteroids_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Steve\GitHub\Asteroids\Asteroids_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Steve\GitHub\Asteroids\Asteroids_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.345 seconds
+- Completed reload, in  0.325 seconds
 Platform assembly: C:\Users\Steve\GitHub\Asteroids\Asteroids_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Steve\GitHub\Asteroids\Asteroids_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
@@ -22,19 +22,19 @@ desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.374416 ms
+UnloadTime: 1.408625 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 910 -> priority: 1 
-  Thread -> id: 300c -> priority: 1 
-Spawning asteroid at0
+  Thread -> id: 11b0 -> priority: 1 
+  Thread -> id: 27b4 -> priority: 1 
+Spawning asteroid at4
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-Spawning asteroid at1
+Spawning asteroid at4
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-Spawning asteroid at1
+Spawning asteroid at6
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
